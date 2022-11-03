@@ -1,2 +1,0 @@
-# projetoPessoa
-herança de classes 
